@@ -1,0 +1,8 @@
+
+Dataset: HW1_data/50(1000)_100_train.csv Lambda = 13 TestMSE: 8.117619791779441
+Dataset: HW1_data/100(1000)_100_train.csv Lambda = 15 TestMSE: 7.802424221472001
+Dataset: HW1_data/150(1000)_100_train.csv Lambda = 38 TestMSE: 7.06272435403798
+Dataset: HW1_data/train-100-10.csv Lambda = 11 TestMSE: 6.261002247782545
+Dataset: HW1_data/train-100-100.csv Lambda = 11 TestMSE: 7.220680465337585
+Dataset: HW1_data/train-1000-100.csv Lambda = 59 TestMSE: 6.395676351800248
+Dataset: HW1_data/train-wine.csv Lambda = 3 TestMSE: 0.6254087890898508
